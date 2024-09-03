@@ -15,9 +15,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HernanBerrazueta&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
 
+## 💼 Portfolio
+
+[https://hernanberrazueta.framer.website/](https://hernanberrazueta.framer.website/){:target="_blank"}
+
 ---
 [![](https://visitcount.itsvg.in/api?id=HernanBerrazueta&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## 💼 Portfolio
-
-https://hernanberrazueta.framer.website/
