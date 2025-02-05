@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I am a Software Engineer and UI/UX Designer with experience in front-end development and UI/UX design. <br>👨‍💻 I am currently working on web development. <br>👀 I am seeking a full-time position.
+📚 I am a Software Engineer, UI/UX Designer, Technical and Customer Support Consultant, and Graphic Designer with over 5 years of experience. <br>👨‍💻 I am currently working in Web Development and as a Technical and Customer Support Consultant.
 
 
 ## 🌐 Socials:
