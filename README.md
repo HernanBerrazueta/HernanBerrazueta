@@ -17,7 +17,7 @@
 
 ## 💼 Portfolio
 
-[https://hernanberrazueta.framer.website/](https://hernanberrazueta.framer.website/)
+[https://hernan-berrazueta.vercel.app/](https://hernan-berrazueta.vercel.app/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HernanBerrazueta&icon=0&color=1)](https://visitcount.itsvg.in)
